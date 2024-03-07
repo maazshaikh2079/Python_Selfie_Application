@@ -1,5 +1,5 @@
 <h1>Python_Selfie_Application</h1>
-<p>This is a basic application to take selfies using webcam</p><br>
+<p>This is a basic application to take selfies using webcam</p>
 
 <h4>Packages used:</h4>
 <ul>
